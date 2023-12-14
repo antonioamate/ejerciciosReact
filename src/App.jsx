@@ -1,13 +1,10 @@
 import './App.css'
-import MiPrimerComponente  from './componentes/MiPrimerComponente'
+import Contador  from './componentes/Contador'
 function App() {
 
   return (
     <div>
-        <MiPrimerComponente nombre="Antonio"
-                            apellidos="Amate Carrión"
-                            edad="27"
-        ></MiPrimerComponente>
+        <Contador></Contador>
     </div>
   )
 }
