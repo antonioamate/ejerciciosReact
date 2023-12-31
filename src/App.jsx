@@ -1,5 +1,6 @@
 import './App.css'
 import Contador  from './componentes/Contador'
+
 function App() {
 
   return (
